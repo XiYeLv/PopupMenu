@@ -7,7 +7,19 @@
 
 
 # 效果
-* ![](https://pan.baidu.com/s/1-nkodyIlsn3z_PhAOhJEPA)
+* ![图片](https://github.com/XiYeLv/PopupMenu/blob/master/DisplayResources/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202018-03-19%20at%2017.56.15.png?raw=true)  
+* ![](https://github.com/XiYeLv/PopupMenu/blob/master/DisplayResources/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202018-03-19%20at%2017.56.22.png?raw=true)
+* ![](https://github.com/XiYeLv/PopupMenu/blob/master/DisplayResources/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202018-03-19%20at%2017.56.27.png?raw=true)
+* ![](https://github.com/XiYeLv/PopupMenu/blob/master/DisplayResources/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202018-03-19%20at%2017.56.29.png?raw=true)
+* ![](https://github.com/XiYeLv/PopupMenu/blob/master/DisplayResources/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202018-03-19%20at%2017.56.32.png?raw=true)
+* ![](https://github.com/XiYeLv/PopupMenu/blob/master/DisplayResources/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202018-03-19%20at%2017.56.35.png?raw=true)
+* ![](https://github.com/XiYeLv/PopupMenu/blob/master/DisplayResources/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202018-03-19%20at%2017.56.37.png?raw=true)
+* ![](https://github.com/XiYeLv/PopupMenu/blob/master/DisplayResources/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202018-03-19%20at%2017.56.39.png?raw=true)
+* ![](https://github.com/XiYeLv/PopupMenu/blob/master/DisplayResources/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202018-03-19%20at%2017.56.42.png?raw=true)
+* ![](https://github.com/XiYeLv/PopupMenu/blob/master/DisplayResources/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202018-03-19%20at%2017.56.45.png?raw=true)
+* ![](https://github.com/XiYeLv/PopupMenu/blob/master/DisplayResources/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202018-03-19%20at%2017.56.48.png?raw=true)
+* ![](https://github.com/XiYeLv/PopupMenu/blob/master/DisplayResources/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202018-03-19%20at%2017.57.00.png?raw=true)
+* ![](https://github.com/XiYeLv/PopupMenu/blob/master/DisplayResources/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202018-03-19%20at%2017.57.08.png?raw=true)
 
 # 要求   
 * iOS 8.0+ 
