@@ -5,6 +5,9 @@
 - [安装](#安装)
 - [使用](#使用)
 
+# [![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/XiYeLv/PopupMenu/blob/master/LICENSE)
+[![CocoaPods](https://img.shields.io/cocoapods/v/LvPopupMenu.svg?style=flat)](http://cocoapods.org/pods/LvPopupMenu)
+![CocoaPods](https://img.shields.io/cocoapods/p/LvPopupMenu.svg?style=flat)
 
 # 效果
 * ![图片](https://github.com/XiYeLv/PopupMenu/blob/master/DisplayResources/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202018-03-19%20at%2017.56.15.png?raw=true)  
@@ -27,6 +30,10 @@
 # 安装
 ## Manually  
 将XYMenu文件夹放入工程
+
+## CocoaPods
+1. Add `pod 'LvPopupMenu'` to your Podfile.
+2. Run `pod install` or `pod update`.
 
 # 使用   
 ## ArrowheadMenu使用    
